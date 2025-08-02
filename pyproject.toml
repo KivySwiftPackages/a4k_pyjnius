@@ -1,0 +1,14 @@
+[project]
+name = "a4k-pyjnius"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "PythonSwiftLink", email = "107263226+PythonSwiftLink@users.noreply.github.com" }
+]
+requires-python = ">=3.11.11"
+dependencies = []
+
+[build-system]
+requires = ["uv_build>=0.8.4,<0.9.0"]
+build-backend = "uv_build"
